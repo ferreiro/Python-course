@@ -4,8 +4,8 @@ Hi! Jorge Here. Welcome to Python_course repo. This are all the exercises We hav
 
 This repo merge and organise better all the work we have done during these four months from these 2 repositories:
 
-- Python NoSQL & Security <a href="https://github.com/ferreiro/Python_NoSql" target="_blank">(See repo)</a>
-- Python Introduction & SQL <a href="https://github.com/ferreiro/Python" target="_blank">(See repo)</a>
+- Python NoSQL & Security <a href="https://github.com/ferreiro/Python-NoSQL-Security" target="_blank">(See repo)</a>
+- Python Introduction & SQL <a href="https://github.com/ferreiro/Python-Introduction-SQL" target="_blank">(See repo)</a>
 
 ### Team and Credits:
 - Jorge Ferreiro (Backend / SQL / NOSQL Database / Security / Frontend).
