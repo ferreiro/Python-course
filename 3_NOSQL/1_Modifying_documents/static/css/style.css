@@ -1,0 +1,10 @@
+
+body {
+	text-align: center;
+}
+input {
+	width: 400px;
+	padding: 20px;
+	margin-bottom: 15px;
+	display: inline-block;
+} 

@@ -1,0 +1,90 @@
+
+body {
+	text-align: center;
+	background: #f4f4f4;
+	margin: 0;
+	padding: 0;
+	padding-bottom: 70px;
+	font-family: Raleway;
+}
+fieldset.input,
+fieldset.button {
+	width: 100%;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+fieldset label {
+	width: 100%;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+input {
+	width: 400px;
+	padding: 20px;
+	font-size: 18px;
+	font-weight: 300;
+	margin-bottom: 15px;
+	display: inline-block;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #cfcfcf;
+}
+input[type='submit']  {
+	width: 440px;
+	background: #00B3FF;
+	color: #fff;
+}
+a {
+	text-decoration: none;
+	color: #222;
+}
+
+.home_image {
+ 	width:60%;
+ 	margin-top: -10px;
+}
+.header_wraper {
+	width: 100%;
+	min-height: 50px;
+	background: #fff;
+}
+.header {
+	padding: 0.5em 2em;
+}
+.header_logo {
+	margin: 0 1.5em;
+	padding: 0;
+	font-size: 20px;
+	font-weight: 600;
+}
+.header_menu {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	vertical-align: middle;
+	list-style: none;
+	margin-top: 10px;
+}
+.header_menu li {
+	display: inline-block;
+	margin-right: 10px;
+}
+.header_menu li a {
+	margin: 0;
+	padding: 5px 10px;
+	border: 1px solid #cecece;
+	display: inline-block;
+
+}
+
+.footer {
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	bottom: 0;
+	background: rgba(244, 244, 244,.96);
+}
